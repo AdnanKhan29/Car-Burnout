@@ -35,10 +35,6 @@ This Blender project showcases a realistic simulation of a car performing a burn
 Contributions to enhance this project are welcome! Feel free to fork the repository, make your improvements, and submit a pull request.
 
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
 ## Acknowledgments
 
 - Special thanks to the Blender community for their invaluable resources and support.
@@ -46,6 +42,6 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Contact
 
-If you have any questions, suggestions, or just want to chat about this project, feel free to reach out to [Your Email Address](mailto:youremail@example.com).
+If you have any questions, suggestions, or just want to chat about this project, feel free to reach out to [Your Email Address](2100031677cseh@gmail.com).
 
 Happy Blending! 🚗💨
